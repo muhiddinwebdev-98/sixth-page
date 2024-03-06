@@ -1,0 +1,103 @@
+.low-prices {
+    padding: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 60px;
+}
+
+.lov-price-box{
+    width: 1230px;
+    height: 450px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px 0px;
+}
+
+.flex-shop {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+    gap: 25px;
+}
+
+.apps {
+    font-size: 14px;
+    line-height: 16.8px;
+    color: #727272;
+}
+
+.sandiq-shop {
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #1E1E1E;
+    font-weight: 700;
+}
+
+.thre-numbers {
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #727272;
+    font-weight: 500;
+}
+
+.new {
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #0D63F3;
+}
+
+.shop-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #95b5e3;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.shop-btn button {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.shop-btn button a {
+    text-decoration: none;
+    color: #0D63F3;
+    font-weight: 600;
+}
+
+.shop-btn button a:hover {
+    color: red;
+}
+
+.shop-btn button:hover {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    transition: all 0.5s ease-in-out;
+}
+hr:hover{
+  border: 2px solid #E4E7EE;
+}
+.checkbox{
+    position: relative;
+left: 40px;
+bottom: 10px;
+width: 20px;
+height: 20px;
+}
+
+.input-checkbox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+.prg-box{
+    position: relative;
+    bottom: 8px;
+}

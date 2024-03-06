@@ -1,0 +1,34 @@
+.product {
+    width: 1230px;
+    height: 720px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.box-products {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.first-poduct {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.second-flex {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+
+}
+
+.image-line {
+    margin-right: 90px;
+}
+
+.about-title {
+    margin-bottom: 10px;
+}
